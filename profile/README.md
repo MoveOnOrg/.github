@@ -1,4 +1,4 @@
-# MoveOn Open Source Statement
+# Open Source Statement
 MoveOn open sources code when we determine it is useful to other groups, and we can support the project’s community to the extent that the project needs support.
 
 We have projects of very different sizes and levels of support that we maintain as open source code, and intend to continue to look for opportunities to be movement generous in our tech work. We see the following as the biggest benefits to open sourcing our work:
